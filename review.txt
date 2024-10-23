@@ -1,0 +1,51 @@
+Remark Type: client
+Remark: This is a valid test remark with more than six words.
+-------------------------------
+Remark Type: client
+Remark: This is a valid test remark with more than six words.
+-------------------------------
+Remark Type: client
+Remark: This is a valid test remark with more than six words.
+-------------------------------
+Remark Type: optometrist
+Remark: This is another valid remark with more than six words.
+-------------------------------
+Remark Type: client
+Remark: This is a valid test remark with more than six words.
+-------------------------------
+Remark Type: optometrist
+Remark: This is another valid remark with more than six words.
+-------------------------------
+Remark Type: client
+Remark: This is a valid test remark with more than six words.
+-------------------------------
+Remark Type: client
+Remark: This is a valid test remark with more than six words.
+-------------------------------
+Remark Type: optometrist
+Remark: This is another valid remark with more than six words.
+-------------------------------
+Remark Type: client
+Remark: First valid remark with six words.
+-------------------------------
+Remark Type: optometrist
+Remark: Second valid remark with six words.
+-------------------------------
+Remark Type: client
+Remark: This remark has way too many words for the system to accept and should fail.
+-------------------------------
+Remark Type: client
+Remark: This is a valid remark with exactly six words.
+-------------------------------
+Remark Type: client
+Remark: First valid remark with six words.
+-------------------------------
+Remark Type: optometrist
+Remark: Second valid remark with six words.
+-------------------------------
+Remark Type: client
+Remark: This remark has way too many words for the system to accept and should fail.
+-------------------------------
+Remark Type: client
+Remark: This is a valid remark with exactly six words.
+-------------------------------
